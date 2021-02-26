@@ -51,7 +51,7 @@ func main() {
 
 /*
  *       Syntax-3  
- *       Declare variable that can assign the datatype dynamically based the value assigned
+ *       Declare variable that can assign the datatype dynamically based on the value assigned
  */
 
     k := 10
